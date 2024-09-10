@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AsterixApiApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(AsterixApiApplication.class, args);
     }
 
